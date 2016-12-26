@@ -1,0 +1,19 @@
+{
+  "mode": "daily",
+  "port": 3000,
+  "logs_dir": "./logs",
+  "db": {
+    "connectionLimit": 100,
+    "host": "127.0.0.1",
+    "user": "root",
+    "password": "hello1234",
+    "database": "crazyfun"
+  },
+  "session_db": {
+    "connectionLimit": 100,
+    "host": "127.0.0.1",
+    "user": "root",
+    "password": "hello1234",
+    "database": "crazyfun"
+  }
+}
